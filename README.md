@@ -12,3 +12,4 @@
 - git clone -> clona la repository da github a un nuovo computer, crea quindi la repo in locale
 
 - git push origin master -> carichiamo i commit presenti in locale sulla repository in GitHub
+- git pull origin master -> scaricare i commit presenti su GitHub, non ancora presenti sulla repo in locale
