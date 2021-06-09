@@ -6,3 +6,7 @@
 - git status
 - git add
 - git commit
+
+## GitHub
+- gh repo create -> crea lo spazio (repository) dove salvare le modifiche su GitHub
+- git push origin master -> carichiamo i commit presenti in locale sulla repository in GitHub
